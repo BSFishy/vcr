@@ -1,0 +1,1 @@
+{ "test": { "command": "echo test", "env": { "test": "value" } } }
